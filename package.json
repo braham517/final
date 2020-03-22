@@ -1,7 +1,7 @@
 {
-  "name": "simple-trello",
+  "name": "flipr-board",
   "version": "1.0.0",
-  "author": "Hai Nguyen <nghai.dev@gmail.com>",
+  "author": "braham garg",
   "dependencies": {
     "babel-plugin-styled-components": "^1.5.1",
     "firebase": "^5.2.0",
@@ -29,10 +29,7 @@
     "start": "gatsby develop",
     "icons": "svgr --icon --replace-attr-values \"#959DA1=currentColor\" -d src/components/atoms/icon/icons src/assets"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/ng-hai/simple-trello"
-  },
+
   "devDependencies": {
     "@svgr/cli": "^2.1.0",
     "babel-eslint": "^8.2.5",
