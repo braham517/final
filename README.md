@@ -23,15 +23,15 @@ yarn install
 yarn start
 
 Functionality Implemented:
- User can login
- User can create board of multiple background
- User can give title to board
- User can create multiple lists in a board
- User can create multiple cards in a list
- User can drag drop a card across list
- User can attact discription to project
- User can archive the card
- User can delete card
- User can delete list
- User can delete Board
+ User can login,
+ User can create board of multiple background,
+ User can give title to board,
+ User can create multiple lists in a board,
+ User can create multiple cards in a list,
+ User can drag drop a card across list,
+ User can attact discription to project,
+ User can archive the card,
+ User can delete card,
+ User can delete list,
+ User can delete Board,
  User can log out
